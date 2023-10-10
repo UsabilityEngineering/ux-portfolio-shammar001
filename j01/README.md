@@ -4,6 +4,8 @@ By: Sophie Hammar
 
 Date: Oct. 10, 2023
 
+![A photo of i10 Sleep Number "Smart Bed", subject of J01](/assets/sleepnumberbed.png)
+
 ---------------
 
 **Introduction**:
