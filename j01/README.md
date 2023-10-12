@@ -4,7 +4,9 @@ By: Sophie Hammar
 
 Date: Oct. 10, 2023
 
-![A photo of i10 Sleep Number "Smart Bed"](/assets/sleepnumberbed.png) ![Welcome Screen Upon Opening App](/assests/happySleeper.png)
+![A photo of i10 Sleep Number "Smart Bed"](/assets/sleepnumberbed.png)
+
+
 
 ---------------
 
