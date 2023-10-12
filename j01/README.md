@@ -4,7 +4,7 @@ By: Sophie Hammar
 
 Date: Oct. 10, 2023
 
-![A photo of i10 Sleep Number "Smart Bed"](/assets/sleepnumberbed.png) ![Happy sleeper with Sleep Number Bed](/assets/happySleeper.png)
+![A photo of i10 Sleep Number "Smart Bed"](../assets/sleepnumberbed.png) ![Happy sleeper with Sleep Number Bed](../assets/happySleeper.png)
 
 
 
@@ -36,11 +36,11 @@ Second, after setting up my profile, prompted by the app, I was instructed to fi
 
 Also, as to not confuse what side of the bed I was choosing that correlated to the syncing through the app, an image of the bed appeared on my phone to confirm my side of the bed! I thought this feature was very **useful** to help with **error tolerance** in ensuring that I was choosing the correct side of the bed I wanted to sleep on and sync to. I could trust that the pillow indicated where my head would rest and the opposite end would be where my feet go. Mind mapping for the win! In a matter of minutes, my side of the bed was synced to and personalized with my profile.
 
-![Displaying of smart bed for Error Tolerence during setup](/assets/welcomSNIQ.png)
+![Displaying of smart bed for Error Tolerence during setup](../assets/welcomSNIQ.png)
 
 Finally, I could lay down! Once I was horizontal in bed and on the app, I was instructed to choose my firmness level. I found the user interface to be straightforward and as expected. I appreciated the digital display that showed the current setting and the real-time feedback on how my adjustments were affecting the bed. This aligns with the concept of **learnability** as I could easily understand how to use the technology. However, while I might have caught on quickly, I felt that there could have been another indication on the sleep number scale to show more clearly that the higher the number the firmer the mattress, and vice versa. However, the real-time adjustments and display of the "sleep number" were **effective** in understanding which way is softer and which is firm.
 
-![Displaying smart bed for Error Tolerence during setup](/assets/FlexFit.png)
+![Displaying smart bed for Error Tolerence during setup](../assets/FlexFit.png)
 
 
 ---------------
@@ -57,12 +57,12 @@ The bed's ability to adjust firmness levels has been particularly **useful** as 
 
 As for **memorability**, the app's interface is very **learnable** and matches user expectations with easily recognizable icons and clear labels. Let's say I want to sit in bed and read my book at a comfortable angle, I click on the button that looks like a bed, labeled as "FlexFit", and click on the icon that shows a predetermined adjustment labeled "reading". It also helps that the interface displays the "shape" in which I am going to be positioned to help with visualization. (There are many different position options to choose from as well, but the majority of the time I am rotating between "reading", "watching TV" and "flat"). From the chosen angle/position, I was able to select an icon clearly assigned to "head" and/or "foot" to make adjustments as I deemed fit using up and down arrows. I could then save and label "favorite" positions that I might regularly gravitate towards. I rarely found myself fumbling through these menus, making it a **memorable** and user-friendly tool.
 
-![Displaying smart bed for Error Tolerence during setup](/assets/sleepMetrics.png)
+![Displaying smart bed for Error Tolerence during setup](../assets/sleepMetrics.png)
 
 
 A feature that I also was not expecting but found very **memorable** is its safety feature! Anytime you make an adjustment, you have to confirm that there are no people or pets in the way of the flexible base before it makes adjustments! This **safe** feature was unexpected but so **useful** as I have a dog who often sleeps at the foot or sides of the bed. I didn't even think of him being unsafe around this new product/technology...but Sleep Number provided a very **satisfying**, **useful** **safety** feature that I would not have otherwise thought of!
 
-![Displaying smart bed for Error Tolerence during setup](/assets/safetyAdjustment.png)
+![Displaying smart bed for Error Tolerence during setup](../assets/safetyAdjustment.png)
 
 ---------------
 
