@@ -58,6 +58,6 @@ As for **memorability**, the app's interface is easily learnable and matches use
 
 A feature that I also was not expecting but found very **memorable** is its safety feature! Anytime you make an adjustment, you have to confirm that there are no people or pets in the way of the flexible base before it makes adjustments! This **safe** feature was unexpected but so **useful** as I have a dog who often sleeps at the foot or sides of the bed. I didn't even think of him being unsafe around this new product/technology...but Sleep Number provided a very **satisfying**, **useful** and **memorable** **safety** feature that I would not have otherwise thought of!
 
-![Displaying smart bed for Error Tolerence during setup](assets/safetyAdjustment.png)
+![Displaying smart bed for Error Tolerence during setup](/assets/safetyAdjustment.png)
 
 ---------------
