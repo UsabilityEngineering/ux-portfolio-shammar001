@@ -34,11 +34,11 @@ I followed the very **efficient** instructions to link my phone to the bed via B
 
 Second, after setting up my profile, prompted by the app, I was instructed to find the glowing red button on the side of my bed that I chose to sleep on. As to not confuse what side of the bed I was choosing that correlated to the syncing through the app, an image of the bed appeared on my phone to confirm my side of the bed! I thought this feature was very **useful** to help with **error tolerance** in ensuring that I was choosing the correct side of the bed I wanted to sleep on and sync to. I could trust that the pillow indicated where my head would rest and the opposite end would be where my feet go. Mind mapping for the win! In a matter of minutes, my side of the bed was synced to and personalized with my profile.
 
-![Displaying smart bed for Error Tolerence during setup](/assests/welcomSNIQ.png) 
+![Displaying smart bed for Error Tolerence during setup](/assests/welcomSNIQ.png)
 
 Finally, I could lay down! Once I was horizontal in bed and on the app, I was instructed to choose my firmness level. I found the user interface to be straightforward and as expected. I appreciated the digital display that showed the current setting and the real-time feedback on how my adjustments were affecting the bed. This aligns with the concept of **learnability** as I could easily understand how to use the technology. However, while I might have caught on quickly, I felt that there could have been another indication on the number scale, to show more clearly that the higher the number the firmer the mattress, and vice versa. However, the real-time adjustments and display of the "sleep number" were **effective** in understanding which way is softer and which is firm.
 
-![Displaying smart bed for Error Tolerence during setup](/assests/FlexFit.png) 
+![Displaying smart bed for Error Tolerence during setup](/assests/FlexFit.png)
 
 
 ---------------
@@ -53,11 +53,11 @@ Once I logged a few nights of sleep, I was able to see a comparative analysis of
 
 As for **memorability**, the app's interface is easily learnable and matches user expectations with easily recognizable icons and clear labels. When I want to sit in bed and read my book, I click on the button that looks like a bed, reading "FlexFit" and click on the icon that shows a predetermined adjustment labeled reading. It also displays the "shape" in which I am going to be positioned to help with visualization. From there, I was able to choose "head" and/or "foot" to make adjustments as I deemed fit using up and down arrows. I could then save and label "favorite" positions that I might regularly gravitate towards. I rarely found myself fumbling through menus, making it a **memorable** and user-friendly tool.
 
-![Displaying smart bed for Error Tolerence during setup](/assests/sleepMetrics.png) 
+![Displaying smart bed for Error Tolerence during setup](/assests/sleepMetrics.png)
 
 
 A feature that I also was not expecting but found very **memorable** is its safety feature! Anytime you make an adjustment, you have to confirm that there are no people or pets in the way of the flexible base before it makes adjustments! This **safe** feature was unexpected but so **useful** as I have a dog who often sleeps at the foot or sides of the bed. I didn't even think of him being unsafe around this new product/technology...but Sleep Number provided a very **satisfying**, **useful** and **memorable** **safety** feature that I would not have otherwise thought of!
 
-![Displaying smart bed for Error Tolerence during setup](/assests/safetyAdjustment.png) 
+![Displaying smart bed for Error Tolerence during setup](/assests/safetyAdjustment.png)
 
 ---------------
