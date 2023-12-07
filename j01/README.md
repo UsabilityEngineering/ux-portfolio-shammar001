@@ -34,18 +34,18 @@ I followed the very **efficient** instructions to link my phone to the bed via B
 
 After setting up my profile, prompted by the app, I was instructed to find the salient glowing red button on the side of my bed, that I chose to sleep on. After locating that button, I pressed it as instructed, until the light changed from red to blue. Just like that, it was connected! Confirmed on my phone's general settings under the Bluetooth tab, in addition to confirmation, that I was successfully connected, within the SleepIQ app as well. There it was, clear that my smart bed was successfully connected to my Bluetooth and that I was ready to start my sleep number journey.
 
-![Red Light Indicator](../assets/RedLightMedium.png) ![Blue Light Indicator](../assets/BlueLightMedium.png)
-![Bluetooth Confirmation](../assets/BluetoothConfirmationMedium.png)
+![Red Light Indicator](../assets/RedLightAS.png) ![Blue Light Indicator](../assets/BlueLightAS.png)
+![Bluetooth Confirmation](../assets/BluetoothConfirmationAS.png)
 
 Also, as to not confuse what side of the bed I was choosing that correlated to the syncing through the app, an image of the bed appeared on my phone to confirm my side of the bed! I thought this feature was very **useful** to help with **error tolerance** in ensuring that I was choosing the correct side of the bed I wanted to sleep on and sync to. I could trust that the pillow indicated where my head would rest and the opposite end would be where my feet go. Mind mapping for the win! In a matter of minutes, my side of the bed was synced to and personalized with my profile.
 
-![Displaying Specific Side of the Bed](../assets/WhichSideMedium.png)
+![Displaying Specific Side of the Bed](../assets/WhichSideAS.png)
 
 Finally, I could lay down! Once I was horizontal in bed and on the app, I was instructed to choose my firmness level. I found the user interface to be straightforward and as expected. I appreciated the digital display that showed the current setting and the real-time feedback on how my adjustments were affecting the bed. This aligns with the concept of **learnability** as I could easily understand how to use the technology. It is critical when using anything new--a coffeemaker, a water bottle, an app--to ensure that you don't have a super steep learning curve. When implementing **learnability** in a new technology the user experience is upgraded; the user is not dissuaded when using the app or device for the first time. This ensures that the user will come back and use the 'technology' over and over again and not feel like it is over their head or much too advanced for them to go back to. 
 
 I would rate the **learnability** of the sleepIQ app as good--however, every new app/technology is subject to criticism, and everyone has their own opinions. While I might have caught on quickly to the sleepIQ app, I felt that there could have been another indication on the sleep number scale to show more clearly that the higher the number the firmer the mattress, and vice versa. With that being said, the real-time adjustments and display of the "sleep number" were **effective** in understanding which way is softer and which is firm.
 
-![Sleep Number Adjustment Screen](../assets/SleepNumberAdjustmentMedium.png)
+![Sleep Number Adjustment Screen](../assets/SleepNumberAdjustmentAS.png)
 
 
 ---------------
@@ -64,7 +64,7 @@ Additionally, Sleep Number provides a sleep-smart technology that adjusts to you
 
 As previously mentioned, the app's interface is very **learnable** and matches user expectations with easily recognizable icons and clear labels. Let's say I want to sit in bed and read my book at a comfortable angle, I click on the button that looks like a bed, labeled as "FlexFit", and click on the icon that shows a predetermined adjustment labeled "reading". It also helps that the interface displays the "shape" in which I am going to be positioned to help with visualization. From the chosen angle/position, I can select an icon assigned to "head" and/or "foot" to the desired adjustment, using up and down arrows. I could then save and label "favorite" positions that I might regularly gravitate towards. I rarely found myself fumbling through these menus, making it an **efficient** and user-friendly tool.
 
-![Flex Fit Adjustment Options](../assets/FlexFitMedium.png)
+![Flex Fit Adjustment Options](../assets/FlexFitAS.png)
 
 
 A feature that I also was not expecting but found very **useful** is its safety feature! Anytime you adjust, you have to confirm that there are no people or pets in the way of the flexible base before it makes adjustments! This **safety** feature was unexpected but so **useful**. **Safety** is a huge concern as it is a liability for the product/technology at hand, but also as a user concern. I am not going to use something that is not safe...especially when it comes to my loved ones **safety**. This is a top concern for users. 
