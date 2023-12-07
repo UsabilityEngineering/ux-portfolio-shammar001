@@ -34,18 +34,18 @@ I followed the very **efficient** instructions to link my phone to the bed via B
 
 After setting up my profile, prompted by the app, I was instructed to find the salient glowing red button on the side of my bed, that I chose to sleep on. After locating that button, I pressed it as instructed, until the light changed from red to blue. Just like that, it was connected! Confirmed on my phone's general settings under the Bluetooth tab, in addition to confirmation, that I was successfully connected, within the SleepIQ app as well. There it was, clear that my smart bed was successfully connected to my Bluetooth and that I was ready to start my sleep number journey.
 
-![Red Light Indicator](../assets/Red_Light.heic) ![Blue Light Indicator](../assets/Blue_Light.heic)
-![Bluetooth Confirmation](../assets/Bluetooth_Confirmation.png)
+![Red Light Indicator](../assets/Red_Light_Small.png) ![Blue Light Indicator](../assets/Blue_Light_Small.png)
+![Bluetooth Confirmation](../assets/Bluetooth_Confirmation_Small.png)
 
 Also, as to not confuse what side of the bed I was choosing that correlated to the syncing through the app, an image of the bed appeared on my phone to confirm my side of the bed! I thought this feature was very **useful** to help with **error tolerance** in ensuring that I was choosing the correct side of the bed I wanted to sleep on and sync to. I could trust that the pillow indicated where my head would rest and the opposite end would be where my feet go. Mind mapping for the win! In a matter of minutes, my side of the bed was synced to and personalized with my profile.
 
-![Displaying Specific Side of the Bed](../assets/Which_Side.jpeg)
+![Displaying Specific Side of the Bed](../assets/Which_Side_Small.png)
 
 Finally, I could lay down! Once I was horizontal in bed and on the app, I was instructed to choose my firmness level. I found the user interface to be straightforward and as expected. I appreciated the digital display that showed the current setting and the real-time feedback on how my adjustments were affecting the bed. This aligns with the concept of **learnability** as I could easily understand how to use the technology. It is critical when using anything new--a coffeemaker, a water bottle, an app--to ensure that you don't have a super steep learning curve. When implementing **learnability** in a new technology the user experience is upgraded; the user is not dissuaded when using the app or device for the first time. This ensures that the user will come back and use the 'technology' over and over again and not feel like it is over their head or much too advanced for them to go back to. 
 
 I would rate the **learnability** of the sleepIQ app as good--however, every new app/technology is subject to criticism, and everyone has their own opinions. While I might have caught on quickly to the sleepIQ app, I felt that there could have been another indication on the sleep number scale to show more clearly that the higher the number the firmer the mattress, and vice versa. With that being said, the real-time adjustments and display of the "sleep number" were **effective** in understanding which way is softer and which is firm.
 
-![Displaying smart bed for Error Tolerence during setup](../assets/FlexFit.png)
+![Sleep Number Adjustment Screen](../assets/Sleep_Number_Adjustment_Small.png)
 
 
 ---------------
