@@ -3,6 +3,7 @@
 By: Sophie Hammar
 
 Date: Oct. 10, 2023
+
 Revised: Dec. 6, 2023
 
 ![A photo of i10 Sleep Number "Smart Bed"](../assets/sleepnumberbed.png)
