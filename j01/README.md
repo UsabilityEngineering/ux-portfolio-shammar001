@@ -4,7 +4,7 @@ By: Sophie Hammar
 
 Date: Oct. 10, 2023
 
-![A photo of i10 Sleep Number "Smart Bed"](../assets/sleepnumberbed.png) ![Happy sleeper with Sleep Number Bed](../assets/happySleeper.png)
+![A photo of i10 Sleep Number "Smart Bed"](../assets/sleepnumberbed.png)
 
 
 
@@ -17,7 +17,7 @@ Hi there, my name is Sophie! I am a 31-year-young full-time computer science maj
 My problem? 
 
 I have been sleeping on the same droopy spring mattress for almost a decade. I feel like this has led me to sadly deal with restless nights, groggy mornings, and worst of all, lower back pains! (At 31 years old, mind you). So, I decided to take the leap and invest in the highly acclaimed Sleep Number "Smart Bed". Backed with a promise of customizable comfort, I embarked on this sleep journey to explore the usability and user experience of my new and high-tech "smart bed".
-
+![Happy sleeper with Sleep Number Bed](../assets/happySleeper.png)
 ---------------
 
 **Goals**:
@@ -28,11 +28,13 @@ My primary goal was to assess how effective the bed is in providing a full night
 
 **Interaction**:
 
-Once the bed was ordered, delivered, and set up, I was eager to jump in and start my slumber. But first I needed to link my smartphone to the smart bed through Bluetooth. (The sales associate at the store offered to sell me a remote for $50 extra to control the bed with, but also sleuthely and not in front of his manager, he told my partner and me that it wasn't necessary so long as we had a smartphone or tablet. He said it would be a breeze connecting to the bed via Bluetooth and using our phones to control the bed...and he was right!) 
+Once the bed was ordered, delivered, and set up, I was eager to jump in and start my slumber. But first I needed to link my smartphone to the smart bed through Bluetooth. (The sales associate at the store offered to sell me a remote for $50 extra to control the bed with, but also sleuthely, and not in front of his manager, he told my partner and me that it wasn't necessary so long as we had a smartphone or tablet. He said it would be a breeze connecting to the bed via Bluetooth and using our phones to control the bed...and he was right!) 
 
-I followed the very **efficient** instructions to link my phone to the bed via Bluetooth. First, the "Welcome to Sleep Number" note that came with the bed, instructed me to download the Sleep Number app, "SleepIQ". Easy Peasy. Done. 
+I followed the very **efficient** instructions to link my phone to the bed via Bluetooth. **Efficiency** is very important when considering using a new application. You want your experience with it to aid your lifestyle and make it easier, not disrupt it more. The "Welcome to Sleep Number" note that came with the bed, instructed me to download the Sleep Number app, "SleepIQ". Easy Peasy. Done. **Efficient** to say the least.
 
-Second, after setting up my profile, prompted by the app, I was instructed to find the salient glowing red button on the side of my bed, that I chose to sleep on. After locating that button, I pressed it as instructed, until the light changed from red to blue. Just like that, it was connected! Confirmed on my phone's general settings under the Bluetooth tab and through the SleepIQ app as well, it was clear that my smart bed was successfully connected to my Bluetooth. 
+After setting up my profile, prompted by the app, I was instructed to find the salient glowing red button on the side of my bed, that I chose to sleep on. After locating that button, I pressed it as instructed, until the light changed from red to blue. Just like that, it was connected! Confirmed on my phone's general settings under the Bluetooth tab, in addition to confirmation, that I was successfully connected, within the SleepIQ app as well. There it was, clear that my smart bed was successfully connected to my Bluetooth and that I was ready to start my sleep number journey.
+
+![Happy sleeper with Sleep Number Bed](../assets/happySleeper.png)
 
 Also, as to not confuse what side of the bed I was choosing that correlated to the syncing through the app, an image of the bed appeared on my phone to confirm my side of the bed! I thought this feature was very **useful** to help with **error tolerance** in ensuring that I was choosing the correct side of the bed I wanted to sleep on and sync to. I could trust that the pillow indicated where my head would rest and the opposite end would be where my feet go. Mind mapping for the win! In a matter of minutes, my side of the bed was synced to and personalized with my profile.
 
